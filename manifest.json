@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-date-inserter",
+    "name": "Date Inserter",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "This plugin inserts the current date and time into your notes.",
+    "author": "Your Name",
+    "isDesktopOnly": false
+}
