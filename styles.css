@@ -1,0 +1,8 @@
+.custom-date {
+    font-weight: bold;
+    color: #ff4081;
+    background-color: #f3f3f3;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: monospace;
+}

@@ -17,7 +17,7 @@
 
 ### Ручная установка
 
-1. Скачайте последний релиз со [страницы Релизов](https://github.com/instocky/obsidian-date-inserter/releases)
+1. Скачайте последний релиз со [страницы Релизов](https://github.com/instocky/obsidian-insert-data/releases)
 2. Распакуйте zip-архив и скопируйте папку в директорию плагинов Obsidian: `<vault>/.obsidian/plugins/`
 3. Перезагрузите Obsidian и включите плагин в Настройки > Сторонние плагины
 
